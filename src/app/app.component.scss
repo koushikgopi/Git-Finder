@@ -1,0 +1,16 @@
+   .card{
+    margin: 20px 300px;
+
+    .example-full-width{
+        width: 100%;
+        input{width: 80%;}
+        .mat-spinner{ float: right; width: 5px; height: 5px;  }
+    }
+    .input-tab{
+        margin-bottom: 20px;
+    }
+
+    .example-card{
+        background-color: rgb(77, 77, 185);
+    }
+   }
